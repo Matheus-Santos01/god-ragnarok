@@ -7,7 +7,7 @@ no anuncio do jogo recentemente.
 
 ## 🔖 Layout
 
-Landing Page totalmente responsiva e hospedada. [Clique aqui para acessar](https://god-ragnarok.vercel.app?target="_blank")
+Landing Page totalmente responsiva e hospedada. [Clique aqui para acessar](https://god-ragnarok.vercel.app)
 
 ## 🚀 Tecnologias
 - HTML 
